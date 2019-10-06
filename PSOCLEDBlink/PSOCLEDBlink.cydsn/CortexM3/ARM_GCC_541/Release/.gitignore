@@ -1,0 +1,9 @@
+/.deps/
+*.lst
+*.o
+*.a
+*.txt
+*.elf
+*.deps
+*.map
+*.hex

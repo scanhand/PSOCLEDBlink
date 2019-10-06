@@ -1,0 +1,7 @@
+/codegentemp/
+/Export/
+/Generated_Source/
+*.cyprj.JC
+*.html
+*.log
+*.rpt
