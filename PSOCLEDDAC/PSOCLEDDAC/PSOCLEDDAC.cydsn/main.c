@@ -10,16 +10,18 @@ int main()
     VDAC8_CTL_Init();
     VDAC8_CTL_Enable();
 
+    int start = 0x80;
+    int end = 0xff;
     for(;;)
     {
         
-        for(int i=0; i<256; i++)
+        for(int i=start; i<end; i++)
         {
             VDAC8_CTL_SetValue(i);
             CyDelay(2);
         }
         
-        for(int i=255; i>=0; i--)
+        for(int i=end; i>=start; i--)
         {
             VDAC8_CTL_SetValue(i);
             CyDelay(2);

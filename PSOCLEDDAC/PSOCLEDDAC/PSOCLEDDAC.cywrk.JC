@@ -124,29 +124,6 @@
 <VisibleNodeIds>
 <v>PSOCLEDDAC</v>
 <v>PSOCLEDDAC\PSOCLEDDAC</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_LED.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_CTL.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_CTL_PM.lst</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\PSOCLEDDAC.elf</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\PSOCLEDDAC.hex</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\CortexM3\ARM_GCC_541\Debug\PSOCLEDDAC.map</v>
-<v>PSOCLEDDAC\PSOCLEDDAC\PSOCLEDDAC.gpdsc</v>
 <v>PSOCLEDDAC\PSOCLEDDAC\PSOCLEDDAC.rpt</v>
 <v>PSOCLEDDAC\PSOCLEDDAC\PSOCLEDDAC_timing.html</v>
 </VisibleNodeIds>
@@ -163,6 +140,9 @@
 <v>PSOCLEDDAC\PSOCLEDDAC\PSoC 5LP Architecture TRM</v>
 <v>PSOCLEDDAC\PSOCLEDDAC\CY8C58LP Family Datasheet</v>
 <v>PSOCLEDDAC\PSOCLEDDAC\System Reference Guides</v>
+<v>PSOCLEDDAC\PSOCLEDDAC\System Reference Guides\cy_boot_v5_60</v>
+<v>PSOCLEDDAC\PSOCLEDDAC\cy_pins_v2_20.pdf</v>
+<v>PSOCLEDDAC\PSOCLEDDAC\VDAC8_v1_90.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PSOCLEDDAC</v>
@@ -170,6 +150,9 @@
 <v>PSOCLEDDAC\PSOCLEDDAC\PSoC 5LP Architecture TRM</v>
 <v>PSOCLEDDAC\PSOCLEDDAC\CY8C58LP Family Datasheet</v>
 <v>PSOCLEDDAC\PSOCLEDDAC\System Reference Guides</v>
+<v>PSOCLEDDAC\PSOCLEDDAC\System Reference Guides\cy_boot_v5_60</v>
+<v>PSOCLEDDAC\PSOCLEDDAC\cy_pins_v2_20.pdf</v>
+<v>PSOCLEDDAC\PSOCLEDDAC\VDAC8_v1_90.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
